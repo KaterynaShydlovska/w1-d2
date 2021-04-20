@@ -1,0 +1,45 @@
+.container {
+    width: 950px;
+    background-color: silver;
+    margin: 10px auto;
+}
+
+.green {
+    height: 150px;
+    background-color: green;
+    margin: 10px;
+}
+
+.blue {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.red {
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    display: inline-block;
+    margin: 10px;
+}
+
+.yellow {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    display: inline;
+    margin: 10px;
+    float: left;
+}
+
+#purple {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    display: inline-block;
+    margin: 10px;
+}
